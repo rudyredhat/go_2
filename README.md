@@ -30,5 +30,9 @@
   - [Interface](https://github.com/rudyredhat/go_2/blob/main/Ch04/04_06/shapes.go)
   - [io.Writer interface](https://github.com/rudyredhat/go_2/blob/main/Ch04/04_08/capper.go)
 5. Ch05
+  - [read config, save log, pkg/errors](https://github.com/rudyredhat/go_2/blob/main/Ch05/05_01/errors_complete.go)
+  - [panic func, stack trace](https://github.com/rudyredhat/go_2/blob/main/Ch05/05_02/panic_complete.go)
+  - [kill server , read pid from a file](https://github.com/rudyredhat/go_2/blob/main/Ch05/05_04/kill.go)
+6. Ch06
   - 
   
