@@ -34,5 +34,11 @@
   - [panic func, stack trace](https://github.com/rudyredhat/go_2/blob/main/Ch05/05_02/panic_complete.go)
   - [kill server , read pid from a file](https://github.com/rudyredhat/go_2/blob/main/Ch05/05_04/kill.go)
 6. Ch06
+  - [concurrency](https://github.com/rudyredhat/go_2/blob/main/Ch06/06_01/sites_complete.go)
+  - [channels](https://github.com/rudyredhat/go_2/blob/main/Ch06/06_02/chan_complete.go)
+  - [get c-type using channels instead of Waitgroups](https://github.com/rudyredhat/go_2/blob/main/Ch06/06_04/sites.go)
+  - [select func, for multiple channels](https://github.com/rudyredhat/go_2/blob/main/Ch06/06_05/select_complete.go)
+  - [cal md5 concurrently](https://github.com/rudyredhat/go_2/blob/main/Ch06/06_07/md5.go)
+7. Ch07
   - 
   
