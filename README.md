@@ -15,4 +15,12 @@
   - [max value in slice](https://github.com/rudyredhat/go_2/blob/main/Ch02/02_11/max.go)
   - [maps ds, key:value](https://github.com/rudyredhat/go_2/blob/main/Ch02/02_12/maps.go)
   - [strings, mao, field()](https://github.com/rudyredhat/go_2/blob/main/Ch02/02_14/words.go)
+3. Ch03
+  - [Function](https://github.com/rudyredhat/go_2/blob/main/Ch03/03_01/func.go)
+  - [call by val & call by ref](https://github.com/rudyredhat/go_2/blob/main/Ch03/03_02/params_complete.go)
+  - [signal errors, fmt.Errof](https://github.com/rudyredhat/go_2/blob/main/Ch03/03_03/errors.go)
+  - [garbage collector](https://github.com/rudyredhat/go_2/blob/main/Ch03/03_04/defer_complete.go)
+  - [content type header](https://github.com/rudyredhat/go_2/blob/main/Ch03/03_06/ctype.go)
+4. Ch04
+  - 
   
