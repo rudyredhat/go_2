@@ -22,5 +22,13 @@
   - [garbage collector](https://github.com/rudyredhat/go_2/blob/main/Ch03/03_04/defer_complete.go)
   - [content type header](https://github.com/rudyredhat/go_2/blob/main/Ch03/03_06/ctype.go)
 4. Ch04
+  - [struct demo](https://github.com/rudyredhat/go_2/blob/main/Ch04/04_01/trade.go)
+  - [pointer receiver](https://github.com/rudyredhat/go_2/blob/main/Ch04/04_02/point.go)
+  - [struct with pointer & method](https://github.com/rudyredhat/go_2/blob/main/Ch04/04_02/trade.go)
+  - [constructor/Initializor](https://github.com/rudyredhat/go_2/blob/main/Ch04/04_03/trade.go)
+  - [use of New in func name](https://github.com/rudyredhat/go_2/blob/main/Ch04/04_05/square.go)
+  - [Interface](https://github.com/rudyredhat/go_2/blob/main/Ch04/04_06/shapes.go)
+  - [io.Writer interface](https://github.com/rudyredhat/go_2/blob/main/Ch04/04_08/capper.go)
+5. Ch05
   - 
   
