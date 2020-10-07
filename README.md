@@ -40,5 +40,15 @@
   - [select func, for multiple channels](https://github.com/rudyredhat/go_2/blob/main/Ch06/06_05/select_complete.go)
   - [cal md5 concurrently](https://github.com/rudyredhat/go_2/blob/main/Ch06/06_07/md5.go)
 7. Ch07
-  - 
+  - [toml config add](https://github.com/rudyredhat/go_2/blob/main/Ch07/07_01/cfg_complete.go)
+  - [sqrt package, testing framework](https://github.com/rudyredhat/go_2/blob/main/Ch07/07_03/sqrt_test_complete.go)
+  - [sqrt and errors](https://github.com/rudyredhat/go_2/blob/main/Ch07/07_05/sqrt.go)
+  - [sqrt func withvalues from csv file](https://github.com/rudyredhat/go_2/blob/main/Ch07/07_05/sqrt_test.go)
+  - [benchmarking](https://github.com/rudyredhat/go_2/blob/main/Ch07/07_06/sqrt_test.go)
+8. Ch08
+  - [json package](https://github.com/rudyredhat/go_2/blob/main/Ch08/08_01/json_complete.go)
+  - [http calls](https://github.com/rudyredhat/go_2/blob/main/Ch08/08_02/httpc_complete.go)
+  - [call github api](https://github.com/rudyredhat/go_2/blob/main/Ch08/08_04/github_api.go)
+  - [httpd server create](https://github.com/rudyredhat/go_2/blob/main/Ch08/08_05/httpd_complete.go)
+  - [httpd func servers as key:val database from json file](https://github.com/rudyredhat/go_2/blob/main/Ch08/08_07/httpd.go)
   
