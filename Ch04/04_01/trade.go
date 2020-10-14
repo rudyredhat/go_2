@@ -1,5 +1,5 @@
 // struct demo
-// In go everything starts with starts with Capital letter is accessible outside
+// In go everything starts with Capital letter is accessible outside
 package main
 
 import (
