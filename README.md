@@ -14,7 +14,7 @@
   - [slices eg with for loop and range](https://github.com/rudyredhat/go_2/blob/main/Ch02/02_09/slices_complete.go)
   - [max value in slice](https://github.com/rudyredhat/go_2/blob/main/Ch02/02_11/max.go)
   - [maps ds, key:value](https://github.com/rudyredhat/go_2/blob/main/Ch02/02_12/maps.go)
-  - [strings, mao, field()](https://github.com/rudyredhat/go_2/blob/main/Ch02/02_14/words.go)
+  - [strings, map, field()](https://github.com/rudyredhat/go_2/blob/main/Ch02/02_14/words.go)
 3. Ch03
   - [Function](https://github.com/rudyredhat/go_2/blob/main/Ch03/03_01/func.go)
   - [call by val & call by ref](https://github.com/rudyredhat/go_2/blob/main/Ch03/03_02/params_complete.go)
